@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+Hello! How are you
+
+I am fine, Thanks and you?
